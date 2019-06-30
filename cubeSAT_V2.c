@@ -1,4 +1,4 @@
-//CubeSAT Version 3 - integrates a gyroscope, can be used with a LabVIEW interface
+//CubeSAT Version 2 - integrates a gyroscope, can be used with a LabVIEW interface
 
 //Librerías
 #include "mbed.h"
